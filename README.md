@@ -1,9 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h1 align="center">Hi 👋, I'm Tarun Mitra</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="" alt="tarunmitra" /> </p>
 
-<p align="left"> <img src="" alt="tarunmitra" /></a> </p>
 
 - 🔭 I’m currently working on [Super-Shop](https://super-shop-dc697.web.app/)
 
