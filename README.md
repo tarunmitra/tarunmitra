@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Super-Shop](https://super-shop-dc697.web.app/)
+- 🔭 I’m currently working on [Super-Shop-project](https://super-shop-dc697.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://private-tutor-13953.web.app/](https://private-tutor-13953.web.app/)
 
